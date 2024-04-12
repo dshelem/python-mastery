@@ -1,6 +1,6 @@
 """
 stock.py
-# (c) Denis Shelemekh, 2023
+# (c) Denis Shelemekh, 2023-2024
 """
 import csv
 
