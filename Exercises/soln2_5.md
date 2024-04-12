@@ -3,7 +3,7 @@
 Here is a version of `readrides.py` with changes for parts (c) and (d).
 
 ```python
-# readrides.py
+# readrides_tuples.py
 
 import csv
 

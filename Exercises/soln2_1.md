@@ -1,7 +1,7 @@
 # Exercise 2.1 - Solution
 
 ```python
-# readrides.py
+# readrides_tuples.py
 
 import csv
 
